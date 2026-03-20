@@ -17,7 +17,7 @@ Nessa pratica, com sucesso, levei 2 dias para entender algumas tags básicas com
  - \<il>\</il>
  - \<li>\</li>
   
-após isso fiz a primeira pratica envolvendo esses elemetentos.
+após isso fiz a primeira pratica envolvendo esses elementos.
 
 # Erros e desafios:
 durante o processo tive desafios para entender a lógica e diferença entre tags que fecham e as tags que não fecham
