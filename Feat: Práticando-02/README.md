@@ -6,16 +6,16 @@ Entender a lógica do HTML e das tags
 # O que foi aprendido:
 Nessa pratica, com sucesso, levei 2 dias para entender algumas tags básicas como:
 
- - <p></p>
- - <h></h>
- - <br>
- - <hr>
- - <a><a/>
- - <img> 
- - <div></div>
- - <ul></ul>
- - <il></il>
- - <li></li>
+ - \ <p></p>
+ - \ <h></h>
+ - \ <br>
+ - \ <hr>
+ - \ <a><a/>
+ - \ <img> 
+ - \ <div></div>
+ - \ <ul></ul>
+ - \ <il></il>
+ -\  <li></li>
   
 após isso fiz a primeira pratica envolvendo esses elemetentos.
 
