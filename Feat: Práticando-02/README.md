@@ -5,6 +5,7 @@ Entender a lógica do HTML e das tags
 
 # O que foi aprendido:
 Nessa pratica, com sucesso, levei 2 dias para entender algumas tags básicas como:
+
  - <p></p>
  - <h></h>
  - <br>
